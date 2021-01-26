@@ -21,9 +21,9 @@ After that you made a Discord bot, Simply invite it into your server and replace
 ## Running
 1. Make sure to have Python 3.5 or higher installed on your machine.
 2. Install the Discord.py library
-- Linux/macOS:
+  - Linux/macOS:
 ```python3 -m pip install -U discord.py```
-- Windows:
+  - Windows:
 ```py -3 -m pip install -U discord.py```
 
 3. Run the code by running the ```Discord-ModMail.Py``` through python.
