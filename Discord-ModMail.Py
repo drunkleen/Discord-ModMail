@@ -10,8 +10,8 @@ client.remove_command('help') # Help CMD
 
 def check_team(ctx):
 
-    ## replace your Server ID and Roll ID with "Server ID" and "Roll ID"
-    return client.get_guild(Server ID).get_role(Roll ID) in ctx.author.roles 
+    ## replace your Server ID and Role ID with "Server ID" and "Role ID"
+    return client.get_guild(Server ID).get_role(Role ID) in ctx.author.roles 
 
 @client.event
 async def on_connect():
@@ -25,7 +25,7 @@ async def on_message(message):
     if message.author != message.author.bot:
         if not message.guild:
         
-            ## replace your Server ID and Roll ID with "Server ID" and "Channel ID"
+            ## replace your Server ID and Role ID with "Server ID" and "Channel ID"
             await client.get_guild(Server ID).get_channel(Channel ID).send(f"User meniton {message.author.mention}\nUsername: {message.author}\nUser-ID: {message.author.id}\n\n__**User Message:**__\n{message.content}")
     
     await client.process_commands(message)
