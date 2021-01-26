@@ -29,9 +29,9 @@ After that you made a Discord bot, Simply invite it into your server and replace
 3. Run the code by running the ```Discord-ModMail.Py``` through python.
 
 ## Bot Usage
-Users can easily send a DM to bot and it will send the message automaticlly into this channel, to send a DM or replay to any users in this discord you have to have Support Roll and use following command:
+Users can easily send a DM to bot and it will send the message automaticlly into specific channel, to send a DM or replay to any users in discord you have to set a Roll for them and use following command:
 ```
-!send pm [User-ID] [message]
+!send pm [User-ID] [your message]
 ```
 
 #### Note:
