@@ -1,4 +1,4 @@
-# Discord-MailMod
+# Discord-ModMail
 
 
 Discord-MailMod is a Bot made by Python, that allows you to communicate indirectly with users in the Discord Server
