@@ -1,7 +1,7 @@
 # Discord-ModMail
 
 
-Discord-MailMod is a Bot made by Python, that allows you to communicate indirectly with users in the Discord Server
+Discord-MailMod is a Bot made by Python, that allows you to communicate indirectly with users in the Discord Server.
 
 
 to download with git use the following command:
