@@ -5,9 +5,7 @@ Discord-MailMod is a Bot made by Python, that allows you to communicate indirect
 
 
 to download with git use the following command:
-```git
-git clone https://github.com/rezadfx/Discord-MailMod
-```
+```git clone https://github.com/rezadfx/Discord-MailMod```
 
 
 ## Features
@@ -20,6 +18,7 @@ Users can easily send a DM to bot and it will send the message automaticlly into
 ```
 !send pm [User-ID] [message]
 ```
+
 #### Note:
 to get User-ID of any user simply right click on user's name and select Copy ID (Developer mod has to be active in your discord settings).
 
@@ -28,12 +27,8 @@ to get User-ID of any user simply right click on user's name and select Copy ID 
  
  to download with git use the following command:
 - Linux/macOS:
-```
- python3 -m pip install -U discord.py
-```
+```python3 -m pip install -U discord.py```
 
 - Windows:
-```
- py -3 -m pip install -U discord.py
-```
+```py -3 -m pip install -U discord.py```
 
